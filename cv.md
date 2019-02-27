@@ -1,21 +1,21 @@
-####Personal Information
-#####Reviaka Vladislav 
+#### Personal Information
+##### Reviaka Vladislav 
 [LinkedIn](https://www.linkedin.com/in/vladislav-reviako-7302b599/)
 * *Email*: vreviaka@gmail.com<br>
 * *Mobile*: +37529 184-23-00 
 ([Telegram](https://t.me/raitvok))
 * *Citizenship*: Belarus (Minsk)
 
-####Job Applied For
+#### Job Applied For
 *Junior* Front-end Developer
 
-####Job-Related Skills
+#### Job-Related Skills
 Javascript ES5/6, React, jQuery, Git, HTML5/CSS3, Webpack, Flexbox, Grid.
 
-####Practicum 
+#### Practicum 
 GitHub URL: https://github.com/Raitvok/weather
 
-####Work experiense
+#### Work experiense
 01/08/2018–14/02/2019 __Engineer__<br>
 *OJSC «AGAT – Control Systems» – Managing Company of <br> «Geoinformation Control Systems Holding»*, Minsk (Belarus)<br>
 >- setting customization the autopilot unmanned aerial vehicle (UAV). 
@@ -24,7 +24,7 @@ GitHub URL: https://github.com/Raitvok/weather
 >- real-time object monitoring.
 >- flight engineering for UAV.
 
-####Education and Training
+#### Education and Training
 01/09/2010 - 01/02/2016 __Engineer__<br>
 *Belarussian state academy of aviation*, Minsk (Belarus)<br>
 Faculty: Civil aviation.<br>
@@ -38,11 +38,11 @@ Specializing: Technical maintenance of Aircraft and Engines.
 >- Git. 
 >- JS, AJAX, DOM, React and a bit redux, npm and webpack.
 
-####Language skills
+#### Language skills
 English - B2.<br>
 Able to read technical documentation.
 
-####About myself
+#### About myself
 Being young and ambitious man I want to acquire new skills and experience.<br>
  Professional growth is vital for me. I want to change the area and I have a storng desire to IT. <br>
 
