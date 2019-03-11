@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+	border: 0;
+	vertical-align: baseline;
+}
+
+main {
+	width: 1024px;
+	background: grey;
+	margin: 0 auto;
+}

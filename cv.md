@@ -15,7 +15,7 @@ Javascript ES5/6, React, jQuery, Git, HTML5/CSS3, Webpack, Flexbox, Grid.
 #### Practicum 
 GitHub URL: https://github.com/Raitvok/weather
 
-#### Work experiense
+#### Work experience
 01/08/2018–14/02/2019 __Engineer__<br>
 *OJSC «AGAT – Control Systems» – Managing Company of <br> «Geoinformation Control Systems Holding»*, Minsk (Belarus)<br>
 >- setting customization the autopilot unmanned aerial vehicle (UAV). 
