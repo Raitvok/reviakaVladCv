@@ -39,9 +39,9 @@ Specializing: Technical maintenance of Aircraft and Engines.
 >- JS, AJAX, DOM, React and a bit redux, npm and webpack.
 
 #### Language skills
+
 English - B2.<br>
 Able to read technical documentation.
-
 #### About myself
 Being young and ambitious man I want to acquire new skills and experience.<br>
  Professional growth is vital for me. I want to change the area and I have a storng desire to IT. <br>
