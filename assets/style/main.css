@@ -1,5 +1,4 @@
 body {
-	margin:         0;
 	padding:        0;
 	line-height:    1;
 	border:         0;
@@ -7,9 +6,6 @@ body {
 	font-family:    Arial, sans-serif;
 	font-size:      20px;
 	background:     #eeeeee;
-}
-
-main {
 	width:  1024px;
 	margin: 0 auto;
 }
@@ -27,14 +23,14 @@ main {
 .header__person,
 .position p,
 .practicum a,
-.termin h4{
+.termin h4 {
 	margin: auto auto auto 20px;
 }
 
 .title {
 	color:       #4a4a58;
 	text-shadow: #00008b 1px 1px 0;
-	margin: 10px 0;
+	margin:      10px 0;
 }
 
 .header__person div {
@@ -54,19 +50,19 @@ main {
 	margin: 0 5px;
 }
 
-.header__link img:hover {
-	filter: contrast(10%);
+.header__link.--filter:hover {
+	filter: contrast(5%);
 }
 
-hr {
-	margin: 10px 0;
-	color:  #d1d1d1;
-	border: none;
+.separator {
+	width: 90%;
+	margin: 10px auto;
+	border-bottom: 1px solid #d1d1d1;
 }
 
 .place {
-	margin:      0;
-	color:       #858585;
+	margin:    0;
+	color:     #858585;
 	font-size: 16px;
 }
 
@@ -81,8 +77,8 @@ hr {
 .experience:hover,
 .language:hover,
 .about:hover {
-	background: #d1d1d1;
-	padding: 10px;
+	background:    #d1d1d1;
+	padding:       10px;
 	border-radius: 5px;
 }
 
@@ -92,6 +88,6 @@ hr {
 .practicum,
 .experience,
 .language,
-.about{
+.about {
 	padding: 10px;
 }
