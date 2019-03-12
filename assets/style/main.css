@@ -1,5 +1,4 @@
 body {
-	margin:         0;
 	padding:        0;
 	line-height:    1;
 	border:         0;
@@ -7,9 +6,6 @@ body {
 	font-family:    Arial, sans-serif;
 	font-size:      20px;
 	background:     #eeeeee;
-}
-
-main {
 	width:  1024px;
 	margin: 0 auto;
 }
@@ -58,10 +54,10 @@ main {
 	filter: contrast(5%);
 }
 
-hr {
-	margin: 10px 0;
-	color:  #d1d1d1;
-	border: none;
+.separator {
+	width: 90%;
+	margin: 10px auto;
+	border-bottom: 1px solid #d1d1d1;
 }
 
 .place {
