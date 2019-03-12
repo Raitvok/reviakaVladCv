@@ -40,7 +40,7 @@ Specializing: Technical maintenance of Aircraft and Engines.
 
 #### Language skills
 
-English - B2.<br>
+English - A2.<br>
 Able to read technical documentation.
 #### About myself
 Being young and ambitious man I want to acquire new skills and experience.<br>
