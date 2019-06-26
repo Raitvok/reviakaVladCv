@@ -1,0 +1,93 @@
+body {
+	padding:        0;
+	line-height:    1;
+	border:         0;
+	vertical-align: baseline;
+	font-family:    Arial, sans-serif;
+	font-size:      20px;
+	background:     #eeeeee;
+	width:  1024px;
+	margin: 0 auto;
+}
+
+.header,
+.header__person__block,
+.position,
+.practicum,
+.termin {
+	display:         flex;
+	flex-flow:       row wrap;
+	justify-content: space-between;
+}
+
+.header__person,
+.position p,
+.practicum a,
+.termin h4 {
+	margin: auto auto auto 20px;
+}
+
+.title {
+	color:       #4a4a58;
+	text-shadow: #00008b 1px 1px 0;
+	margin:      10px 0;
+}
+
+.header__person div {
+	margin-right: 15px;
+}
+
+.header__link {
+	text-decoration: none;
+	color:           #3b8784;
+}
+
+.header__link:hover {
+	color: #251919;
+}
+
+.header__link img {
+	margin: 0 5px;
+}
+
+.header__link.--filter:hover {
+	filter: contrast(5%);
+}
+
+.separator {
+	width: 90%;
+	margin: 10px auto;
+	border-bottom: 1px solid #d1d1d1;
+}
+
+.place {
+	margin:    0;
+	color:     #858585;
+	font-size: 16px;
+}
+
+.description {
+	font-size: 18px;
+}
+
+.header:hover,
+.position:hover,
+.skills:hover,
+.practicum:hover,
+.experience:hover,
+.language:hover,
+.about:hover {
+	background:    #d1d1d1;
+	padding:       10px;
+	border-radius: 5px;
+}
+
+.header,
+.position,
+.skills,
+.practicum,
+.experience,
+.language,
+.about {
+	padding: 10px;
+}
